@@ -1,4 +1,4 @@
-# SatQuery-AI-T-hack-9.0- README
+# SatQuery-AI
 
 ## 1. What We Are Building
 
